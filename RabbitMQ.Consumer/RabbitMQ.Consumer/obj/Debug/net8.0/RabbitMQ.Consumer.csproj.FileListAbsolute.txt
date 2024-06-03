@@ -1,0 +1,17 @@
+F:\self\rabbitmq\RabbitMQ.Consumer\RabbitMQ.Consumer\bin\Debug\net8.0\RabbitMQ.Consumer.exe
+F:\self\rabbitmq\RabbitMQ.Consumer\RabbitMQ.Consumer\bin\Debug\net8.0\RabbitMQ.Consumer.deps.json
+F:\self\rabbitmq\RabbitMQ.Consumer\RabbitMQ.Consumer\bin\Debug\net8.0\RabbitMQ.Consumer.runtimeconfig.json
+F:\self\rabbitmq\RabbitMQ.Consumer\RabbitMQ.Consumer\bin\Debug\net8.0\RabbitMQ.Consumer.dll
+F:\self\rabbitmq\RabbitMQ.Consumer\RabbitMQ.Consumer\bin\Debug\net8.0\RabbitMQ.Consumer.pdb
+F:\self\rabbitmq\RabbitMQ.Consumer\RabbitMQ.Consumer\bin\Debug\net8.0\RabbitMQ.Client.dll
+F:\self\rabbitmq\RabbitMQ.Consumer\RabbitMQ.Consumer\obj\Debug\net8.0\RabbitMQ.Consumer.csproj.AssemblyReference.cache
+F:\self\rabbitmq\RabbitMQ.Consumer\RabbitMQ.Consumer\obj\Debug\net8.0\RabbitMQ.Consumer.GeneratedMSBuildEditorConfig.editorconfig
+F:\self\rabbitmq\RabbitMQ.Consumer\RabbitMQ.Consumer\obj\Debug\net8.0\RabbitMQ.Consumer.AssemblyInfoInputs.cache
+F:\self\rabbitmq\RabbitMQ.Consumer\RabbitMQ.Consumer\obj\Debug\net8.0\RabbitMQ.Consumer.AssemblyInfo.cs
+F:\self\rabbitmq\RabbitMQ.Consumer\RabbitMQ.Consumer\obj\Debug\net8.0\RabbitMQ.Consumer.csproj.CoreCompileInputs.cache
+F:\self\rabbitmq\RabbitMQ.Consumer\RabbitMQ.Consumer\obj\Debug\net8.0\RabbitMQ.Consumer.csproj.CopyComplete
+F:\self\rabbitmq\RabbitMQ.Consumer\RabbitMQ.Consumer\obj\Debug\net8.0\RabbitMQ.Consumer.dll
+F:\self\rabbitmq\RabbitMQ.Consumer\RabbitMQ.Consumer\obj\Debug\net8.0\refint\RabbitMQ.Consumer.dll
+F:\self\rabbitmq\RabbitMQ.Consumer\RabbitMQ.Consumer\obj\Debug\net8.0\RabbitMQ.Consumer.pdb
+F:\self\rabbitmq\RabbitMQ.Consumer\RabbitMQ.Consumer\obj\Debug\net8.0\RabbitMQ.Consumer.genruntimeconfig.cache
+F:\self\rabbitmq\RabbitMQ.Consumer\RabbitMQ.Consumer\obj\Debug\net8.0\ref\RabbitMQ.Consumer.dll
